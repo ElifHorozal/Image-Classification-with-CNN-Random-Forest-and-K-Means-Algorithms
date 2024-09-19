@@ -1,9 +1,5 @@
 # Image-Classification-with-CNN-Random-Forest-and-K-Means-Algorithms
 
-Sure! Here’s a README template based on your project, detailing the flower classification using CNN, Random Forest, and K-Means clustering:
-
----
-
 # Flower Classification Project
 
 ## Overview
