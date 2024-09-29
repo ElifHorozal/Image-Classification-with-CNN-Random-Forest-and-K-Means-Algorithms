@@ -44,3 +44,7 @@ K-Means clustering performs the least effectively for this classification task. 
 - **CNN**: Most effective algorithm with high accuracy and balanced performance across metrics.
 - **Random Forest**: Offers moderate performance but falls short compared to CNN.
 - **K-Means Clustering**: Struggles considerably in this classification context with poor clustering evaluation metrics.
+
+
+**link to kaggle:**
+https://www.kaggle.com/code/elifhorozal/flower-image-classification
